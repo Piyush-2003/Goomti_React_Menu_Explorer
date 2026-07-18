@@ -6,7 +6,7 @@ const BLUE = '#2563eb';
 const GREEN = '#059669';
 const AMBER = '#d97706';
 const RED = '#dc2626';
-const PURPLE = '#7c3aed';
+//const PURPLE = '#7c3aed';
 
 // ── Quadrant classifier ──
 function getQuadrant(item, avgRevenue, avgVolume) {
